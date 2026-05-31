@@ -738,7 +738,7 @@ Description: רוצה להקים אתר
 
 - [business_email]
 
-- [business_phone]
+- 050-4626493
 
 - [business_address]
 
@@ -945,7 +945,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-4626493
 
 - כתובת: [business_address]
 
@@ -1008,7 +1008,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - [business_email]
 
-- [business_phone]
+- 050-4626493
 
 - [business_address]
 
@@ -1223,7 +1223,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-4626493
 
 
 
@@ -1287,7 +1287,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - [business_email]
 
-- [business_phone]
+- 050-4626493
 
 - [business_address]
 
@@ -1525,7 +1525,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-4626493
 
 - כתובת: [business_address]
 
@@ -1585,7 +1585,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - [business_email]
 
-- [business_phone]
+- 050-4626493
 
 - [business_address]
 
