@@ -6389,6 +6389,146 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-hero-section .index-hero-h1 {
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+  font-weight: 900;
+  letter-spacing: -0.5px;
+}
+
+.index-hero-section .index-hero-h1-accent {
+  color: var(--secondary);
+  font-weight: 900;
+  text-shadow: 0 2px 18px rgba(255,183,3,0.35);
+}
+
+.index-hero-section .index-hero-subtitle {
+  opacity: 0.78;
+  font-size: 1rem;
+}
+
+.index-hero-section .index-hero-badge {
+  opacity: 0.7;
+  font-size: 0.85rem;
+}
+
+.index-hero-section .index-hero-trust {
+  opacity: 0.65;
+  font-size: 0.85rem;
+}
+
+.index-services-section .service-card:nth-child(1) .service-card-title,
+.index-services-section .service-card:nth-child(3) .service-card-title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--secondary);
+  letter-spacing: -0.3px;
+}
+
+.index-services-section .service-card:nth-child(2) .service-card-title,
+.index-services-section .service-card:nth-child(4) .service-card-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-dark);
+  opacity: 0.82;
+}
+
+.index-services-section .service-card:nth-child(2),
+.index-services-section .service-card:nth-child(4) {
+  opacity: 0.88;
+}
+
+.index-about-section .index-about-section__heading {
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+  font-weight: 900;
+}
+
+.index-about-section .index-about-section__heading-accent {
+  font-size: inherit;
+  font-weight: 900;
+  color: var(--secondary);
+}
+
+.index-about-section .index-about-section__value-item:nth-child(3) .index-about-section__value-title {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--secondary);
+}
+
+.index-about-section .index-about-section__value-item:nth-child(3) .index-about-section__value-icon {
+  transform: scale(1.2);
+}
+
+.index-about-section .index-about-section__value-item:not(:nth-child(3)) .index-about-section__value-title {
+  font-size: 0.97rem;
+  font-weight: 600;
+  color: var(--text-light);
+  opacity: 0.78;
+}
+
+.index-about-section .index-about-section__value-item:not(:nth-child(3)) {
+  opacity: 0.8;
+}
+
+.index-stats-section .index-stats-section__metric-card:nth-child(1) .index-stats-section__metric-number {
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+  font-weight: 900;
+  color: var(--secondary);
+}
+
+.index-stats-section .index-stats-section__metric-card:nth-child(1) {
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 2px rgba(255,183,3,0.18), var(--shadow-card);
+}
+
+.index-stats-section .index-stats-section__metric-card:nth-child(4) .index-stats-section__metric-number {
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+  font-weight: 900;
+  color: var(--secondary);
+}
+
+.index-stats-section .index-stats-section__metric-card:nth-child(4) {
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 2px rgba(255,183,3,0.18), var(--shadow-card);
+}
+
+.index-stats-section .index-stats-section__metric-card:nth-child(2),
+.index-stats-section .index-stats-section__metric-card:nth-child(3),
+.index-stats-section .index-stats-section__metric-card:nth-child(5) {
+  opacity: 0.75;
+}
+
+.index-contact-section .contact-reason-item:nth-child(4) strong {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--secondary);
+}
+
+.index-contact-section .contact-reason-item:nth-child(4) .reason-icon {
+  color: var(--secondary);
+  transform: scale(1.15);
+}
+
+.index-contact-section .contact-intro strong {
+  font-weight: 800;
+  color: var(--secondary);
+  font-size: 1.05em;
+}
+
+.index-contact-section .contact-reason-item:not(:nth-child(4)):not(:nth-child(2)) {
+  opacity: 0.78;
+}
+
+.site-footer .footer-badge:nth-child(2) {
+  background: var(--secondary);
+  color: var(--bg-dark);
+  font-weight: 700;
+  transform: scale(1.08);
+}
+
+.site-footer .footer-badge:nth-child(1) {
+  opacity: 0.7;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
