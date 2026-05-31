@@ -31,6 +31,7 @@ Information about WCAG compliance and accessibility features.
 - Email: shimon.shamaot@gmail.com
 - Phone: 050-4626493
 - Phone (tel): tel:0504626493
+- Address: קרית אתא
 
 ### Contact form
 - URL: https://example.com
