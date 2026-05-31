@@ -2,13 +2,13 @@
 
 רוצה להקים אתר
 
-Source: https://-7b9b60fe.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שמאות רכוש מוסמך — שמעון מישייב,שמאות רכוש,סוקר סיכונים, עד 
 
-URL: https://-7b9b60fe.zappy5.app
+URL: https://example.com
 Description: רוצה להקים אתר
 
 שמאות רכוש מוסמך — שמעון מישייב,שמאות רכוש,סוקר סיכונים, עד
@@ -914,7 +914,7 @@ Description: רוצה להקים אתר
 
 ## מדיניות פרטיות
 
-URL: https://-7b9b60fe.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1185,7 +1185,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-7b9b60fe.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1465,7 +1465,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-7b9b60fe.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
